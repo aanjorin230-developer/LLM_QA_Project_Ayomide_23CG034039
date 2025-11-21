@@ -1,8 +1,8 @@
 ﻿#!/usr/bin/env python3
 """
 LLM Question and Answering CLI Application
-Name: Osarenkhoe Osatohanmwen
-Matric No: 23CG034140
+Name: Anjorin Ayomide
+
 """
 
 import os
@@ -157,3 +157,4 @@ Thank you for using the LLM Q&A CLI. Goodbye!\")
 
 if __name__ == \"__main__\":
     main()
+
