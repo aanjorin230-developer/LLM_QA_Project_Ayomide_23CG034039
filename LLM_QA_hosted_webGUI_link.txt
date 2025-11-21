@@ -1,11 +1,12 @@
-﻿Name: Osarenkhoe Osatohanmwen
-Matric Number: 23CG034140
+﻿Name: ANJORIN AYOMIDE
+Matric Number: 23CG034039
 
-Live URL: https://llm-qa-osarenkhoe.onrender.com
-GitHub Repository: https://github.com/OsatohanmwenT/LLM_QA_OSARENKHOE_23CG034140
+Live URL: https://llm-qa-project-ayomide-23cg034039-1.onrender.com
+GitHub Repository: https://github.com/aanjorin230-developer/LLM_QA_Project_Ayomide_23CG034039/tree/main
 
 Instructions:
 1. Deploy the application to Render.com
 2. Update this file with the actual live URL
 3. Update this file with your GitHub repository URL
 4. Ensure the repository is public for submission
+
